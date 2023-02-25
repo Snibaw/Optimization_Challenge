@@ -1,0 +1,1 @@
+./checker res_1.txt res_2.txt res_3.txt res_4.txt res_5.txt res_6.txt res_7.txt res_8.txt res_9.txt res_10.txt res_11.txt res_12.txt res_13.txt res_14.txt res_15.txt

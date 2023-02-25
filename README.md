@@ -1,2 +1,3 @@
 # Optimization_Challenge
- 
+My school organized a programming event where the goal was to find the best solution to a problem. We were in groups of two and during one day we tried to find a better solution than our competitors to this, problem for 15 different databases. We finished first in our school with an optimal solution found for half of the problems. The goal was to organize a,production of cars in order to respect the rules on the production ratio of each car. If this ratio was not respected then we got a penalty which defined our score. Our goal here was to decrease our penalties as much as possible to win. We used several methods during this challenge like a gradient descent and the implementation of the module pypy to greatly decrease the execution time of the program.
+
